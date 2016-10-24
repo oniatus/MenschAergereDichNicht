@@ -1,0 +1,6 @@
+{
+	"parent": "MenschAergereDichNicht:piece",
+	"mesh": {
+		"material" : "MenschAergereDichNicht:blue"
+	}
+}

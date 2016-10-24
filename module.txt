@@ -1,0 +1,11 @@
+{
+    "id" : "MenschAergereDichNicht",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "oniatus",
+    "displayName" : "Mensch aergere Dich nicht",
+    "description" : "Implementation of the german game 'Mensch aergere Dich nicht'",
+    "dependencies" : [],
+    "serverSideOnly" : "false",
+    "isGameplay" : "true",
+    "defaultWorldGenerator" : "MenschAergereDichNicht:LobbyWorldGenerator"
+}

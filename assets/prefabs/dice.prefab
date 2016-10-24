@@ -1,0 +1,27 @@
+{
+	"mesh": {
+		"mesh": "dice",
+		"material": "MenschAergereDichNicht:dice"
+	},
+	"rigidBody": {
+		"friction": 0.4,
+		"mass": 3
+	},
+	"boxShape": {
+	},
+	"location": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"scale": 0.5
+	},
+	"Network": {
+		"replicateMode": "ALWAYS"
+	},
+	"persisted": true,
+	"dice": {
+		"throwSound": "throw_dice"
+	}
+}
